@@ -1,0 +1,40 @@
+
+h1{
+	color:blue;
+	font-size:70;
+	text-align:center; 
+}
+h2{
+	color:blue;
+	font-size:50;
+	text-align:center
+
+}
+.wih{
+	text-align:left-side;
+	color:red;
+}
+h4{
+	text-align:center;
+}
+body{
+	
+	background-position:center;
+	background-size:cover;	
+	
+	
+	
+}
+p{
+	font-size:larger;
+	text-align:left-side;
+	
+}
+.mydiv{
+
+	border:5px outset red;
+	background-image:url(css.jpg);
+	background-repeat:none;
+	text-align:justify;
+
+}
