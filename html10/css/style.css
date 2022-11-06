@@ -1,0 +1,94 @@
+  
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	font-family:;
+}
+body{
+	background-color:plum
+	}
+	
+ul li {
+	
+	background-color:#803db3;
+	display:inline-block;
+	padding:0 20px;
+	height:50px;
+	line-height:50px;
+	
+}
+ul{
+	height:50px;	
+}
+ul li a{
+	text-decoration:none;
+	color:white;
+}
+header{
+	display:flex;
+	padding: 30px 30px;
+	width:100%;
+	justify-content:space-between;
+}
+
+.container{
+	border:10px solid #803db3;
+	padding:20px 10px;
+	background-image: linear-gradient(white,plum);
+	
+}
+
+.itcareer{
+	padding:60px;
+	text-align:center;
+	font-size:25px;
+}
+.poster{
+	width:100%;
+	
+	
+}
+.detail{
+	background-image: linear-gradient(plum,white,plum);
+	
+	display:flex;
+	
+}
+
+.fimg1{
+		padding:110px 40px;
+}
+
+.fimg2{
+	padding:0 40px 
+}
+
+article{
+		padding:90px 40px;		
+		font-size:larger;
+}
+.detail+div{
+		text-align:right;
+		padding:30px 20px;
+}
+article i{
+		padding:15 5px;
+		background-color:#803db3;
+		text-align:center;
+		border-radius:50%;
+		width:45px;
+		color:white;
+}
+
+.f2a{
+	padding-top:25px;
+	text-align:center;
+	width:100%;
+	position:absolute;
+}
+
+article div{
+	padding-top:20px;
+	text-align:left;
+}
