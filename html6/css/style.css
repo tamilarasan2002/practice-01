@@ -1,0 +1,74 @@
+
+.form{
+
+	}
+.img1{
+	width:42px;
+	height:30px;
+		
+}
+.fs{
+	background-color:powderblue;
+	border-radius:15px;	
+	width:30%;
+	
+	
+	}
+.div1{
+	text-align:left;
+	padding-top:10px;
+	}
+.div2{
+	float:left;
+	width:45%;
+	}
+.div3{
+	float:right;
+	width:45%;
+	}
+.div4{
+	float:left;
+	width:100%;
+	padding-top:20px;	
+	}
+#mobile{
+	width:100%;
+	padding-top:20px;
+}
+div{
+	width:100%;
+	padding-top:20px;
+}
+.fn{
+	height:35px;
+}	
+.ln{
+	height:35px;
+}
+.email{
+	height:35px;
+	 width:100%;
+}
+.number{
+	height:35px;
+	 width:100%;
+	
+}
+.pass{
+	height:35px;
+	width:100%;
+	
+}
+.mdob{
+	height:35px;
+	
+	
+}
+.sub1{
+	height:35px;
+	width:50%;
+	background-color:lightgreen;
+	border-radius:15px;
+	
+}
+		
